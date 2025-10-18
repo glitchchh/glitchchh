@@ -1,6 +1,6 @@
 👋 | Hello, I'm **Glitchchh**
 
-🇩🇪  | I'm a passionate Developer from Germany
+💡   |I'm a passionate Developer from Germany
 
 🌱 | I'm always interested in learning new things
 
