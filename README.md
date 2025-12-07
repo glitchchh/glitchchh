@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 | Hello, I'm Glitchchh<br><br>💡 | I'm a passionate Developer from Germany<br><br>🌱 | I'm always interested in learning new things<br><br>⭕ | I'm currently working on Artificial intelligence (https://Nynex.eu)<br><br> | Portfolio: https://glitchchh.nynex.eu/
+👋 | Hello, I'm Glitchchh<br><br>💡 | I'm a passionate Developer from Germany<br><br>🌱 | I'm always interested in learning new things<br><br>⭕ | I'm currently working on Artificial intelligence (https://Nynex.eu)<br><br>📝 | Portfolio: https://glitchchh.nynex.eu/
 
 
 # 💻 Tech Stack:
